@@ -1,0 +1,151 @@
+product_id,product_name,category,cost_price,base_price
+1,Wheat Flour 1,Grocery,1332.11,1910.95
+2,Air Conditioner 2,Home Appliances,3456.73,4424.78
+3,Biography 3,Books,3174.72,5166.78
+4,Gym Gloves 4,Sports,4650.24,7085.38
+5,Moisturizer 5,Beauty,528.43,830.25
+6,Microwave 6,Home Appliances,2653.4,4125.18
+7,Handbag 7,Fashion,4922.43,8364.8
+8,Puzzle Set 8,Toys,4207.25,5643.94
+9,Air Conditioner 9,Home Appliances,1763.71,2863.85
+10,Jacket 10,Fashion,2133.53,2797.29
+11,Remote Car 11,Toys,1836.38,3200.2
+12,Running Shoes 12,Sports,1280.62,1615.25
+13,Football 13,Sports,1454.58,1797.06
+14,Coffee Beans 14,Grocery,4241.67,6020.62
+15,Tennis Racket 15,Sports,3235.96,4841.48
+16,Cookbook 16,Books,4166.95,6751.8
+17,Yoga Mat 17,Sports,2381.51,2979.17
+18,Coffee Beans 18,Grocery,4904.0,8435.95
+19,Air Conditioner 19,Home Appliances,3062.87,3410.83
+20,Green Tea 20,Grocery,2154.81,3031.18
+21,Water Purifier 21,Home Appliances,1633.04,2879.3
+22,Dress 22,Fashion,1299.18,1634.5
+23,Bluetooth Speaker 23,Electronics,2904.61,3963.4
+24,Rice Pack 24,Grocery,2996.53,3996.52
+25,Tennis Racket 25,Sports,412.76,568.17
+26,Rice Pack 26,Grocery,4022.85,5636.92
+27,Action Figure 27,Toys,977.57,1622.9
+28,Water Purifier 28,Home Appliances,4791.09,5716.62
+29,Smartwatch 29,Electronics,4235.21,7473.0
+30,Doll 30,Toys,1222.54,2048.34
+31,Bluetooth Speaker 31,Electronics,893.51,1023.24
+32,Fiction Novel 32,Books,552.54,948.96
+33,Washing Machine 33,Home Appliances,3291.79,5052.99
+34,Doll 34,Toys,776.9,1303.39
+35,Sneakers 35,Fashion,105.38,135.19
+36,Refrigerator 36,Home Appliances,123.21,147.4
+37,Sugar 37,Grocery,2490.11,3861.47
+38,Jeans 38,Fashion,4568.39,6595.49
+39,Perfume 39,Beauty,1820.09,3207.58
+40,Dress 40,Fashion,406.65,492.27
+41,Olive Oil 41,Grocery,1951.52,3081.47
+42,Action Figure 42,Toys,349.11,427.6
+43,Jeans 43,Fashion,2538.32,3224.98
+44,Coffee Beans 44,Grocery,306.78,353.6
+45,Doll 45,Toys,3028.98,5326.39
+46,Action Figure 46,Toys,1006.67,1618.66
+47,Cookbook 47,Books,2402.02,3413.58
+48,Water Purifier 48,Home Appliances,3285.07,3688.27
+49,Foundation 49,Beauty,2423.46,3366.34
+50,Doll 50,Toys,930.64,1356.7
+51,Bluetooth Speaker 51,Electronics,706.14,1052.87
+52,Cookbook 52,Books,2700.63,4459.18
+53,Cookbook 53,Books,2803.88,3464.41
+54,Cookbook 54,Books,775.6,929.55
+55,Face Wash 55,Beauty,540.75,964.29
+56,Smartwatch 56,Electronics,4563.64,7981.8
+57,Face Wash 57,Beauty,3985.84,6811.75
+58,Wheat Flour 58,Grocery,889.04,1138.58
+59,Smartwatch 59,Electronics,3731.04,4150.51
+60,Biography 60,Books,2101.23,2772.61
+61,Green Tea 61,Grocery,1540.34,2442.24
+62,Olive Oil 62,Grocery,3036.18,3457.94
+63,Sugar 63,Grocery,4711.49,7001.77
+64,Children Story Book 64,Books,2623.66,3200.0
+65,Biography 65,Books,3107.04,4511.36
+66,Olive Oil 66,Grocery,3882.97,5825.01
+67,Perfume 67,Beauty,665.2,1150.71
+68,Lipstick 68,Beauty,4774.98,6043.49
+69,Doll 69,Toys,4373.95,7458.7
+70,Green Tea 70,Grocery,2720.67,4029.75
+71,Self Help Book 71,Books,4098.7,4931.26
+72,Smartwatch 72,Electronics,3791.03,5801.4
+73,Action Figure 73,Toys,3562.9,4535.59
+74,Sneakers 74,Fashion,1485.93,1905.21
+75,Sneakers 75,Fashion,2656.52,3773.44
+76,Laptop 76,Electronics,1999.59,3065.57
+77,Coffee Beans 77,Grocery,1808.17,2005.98
+78,Biography 78,Books,487.26,865.74
+79,Biography 79,Books,1354.9,2207.93
+80,Washing Machine 80,Home Appliances,663.77,999.07
+81,Water Purifier 81,Home Appliances,4710.61,7763.41
+82,Yoga Mat 82,Sports,861.52,1271.22
+83,Foundation 83,Beauty,3326.87,3816.43
+84,Moisturizer 84,Beauty,4371.31,7760.16
+85,Handbag 85,Fashion,3317.14,3753.03
+86,Building Blocks 86,Toys,2595.87,3122.91
+87,Laptop 87,Electronics,2865.19,4094.12
+88,Tablet 88,Electronics,3825.32,6236.33
+89,Remote Car 89,Toys,608.24,1008.37
+90,Washing Machine 90,Home Appliances,877.22,1376.71
+91,Sunglasses 91,Fashion,1845.59,3163.0
+92,Puzzle Set 92,Toys,2674.66,3578.02
+93,Cookbook 93,Books,4580.58,7662.57
+94,Cricket Bat 94,Sports,2737.54,4652.78
+95,Coffee Beans 95,Grocery,4195.05,6968.67
+96,Gym Gloves 96,Sports,4084.15,5384.44
+97,Washing Machine 97,Home Appliances,558.93,921.64
+98,Puzzle Set 98,Toys,4807.36,7807.68
+99,Sneakers 99,Fashion,1395.4,2043.98
+100,T-Shirt 100,Fashion,2400.65,4083.86
+101,Jacket 101,Fashion,3678.94,4720.29
+102,Action Figure 102,Toys,3299.02,4143.94
+103,Remote Car 103,Toys,4634.61,6414.05
+104,Children Story Book 104,Books,2020.48,3233.55
+105,Action Figure 105,Toys,3545.63,4143.08
+106,Doll 106,Toys,1028.52,1434.03
+107,Face Wash 107,Beauty,1031.33,1567.9
+108,Lipstick 108,Beauty,586.23,840.54
+109,Fiction Novel 109,Books,1296.13,2214.49
+110,Cookbook 110,Books,876.91,1554.21
+111,Perfume 111,Beauty,447.03,754.22
+112,Lipstick 112,Beauty,2204.7,2734.41
+113,Green Tea 113,Grocery,3217.67,4829.16
+114,Smartwatch 114,Electronics,4771.41,7644.41
+115,Children Story Book 115,Books,3315.81,4691.28
+116,Building Blocks 116,Toys,1539.42,2363.15
+117,Refrigerator 117,Home Appliances,1471.42,2127.18
+118,Doll 118,Toys,2325.89,3149.25
+119,Wheat Flour 119,Grocery,1662.57,1941.91
+120,Vacuum Cleaner 120,Home Appliances,1564.32,1976.6
+121,Self Help Book 121,Books,1232.06,1513.18
+122,Shampoo 122,Beauty,3235.35,5147.74
+123,Sunglasses 123,Fashion,3357.53,4627.62
+124,Sunglasses 124,Fashion,2690.2,4146.54
+125,Air Conditioner 125,Home Appliances,2968.97,4351.07
+126,Cricket Bat 126,Sports,894.65,1013.23
+127,Gym Gloves 127,Sports,4770.34,5490.56
+128,Coffee Beans 128,Grocery,3428.95,5262.6
+129,Smartphone 129,Electronics,1063.17,1261.26
+130,Gym Gloves 130,Sports,1860.31,3185.49
+131,Lipstick 131,Beauty,4940.66,6192.58
+132,Cricket Bat 132,Sports,4100.54,5488.33
+133,Puzzle Set 133,Toys,3778.09,6604.9
+134,Headphones 134,Electronics,592.76,672.21
+135,Water Purifier 135,Home Appliances,4508.6,7779.71
+136,Handbag 136,Fashion,4226.5,5156.37
+137,Moisturizer 137,Beauty,241.39,358.67
+138,Running Shoes 138,Sports,2724.13,3091.49
+139,Jacket 139,Fashion,1949.21,2591.08
+140,Remote Car 140,Toys,634.82,893.76
+141,Puzzle Set 141,Toys,4701.32,7865.19
+142,Jeans 142,Fashion,2452.82,2982.34
+143,Remote Car 143,Toys,167.2,300.29
+144,Air Conditioner 144,Home Appliances,1189.54,1578.22
+145,Self Help Book 145,Books,3678.56,6463.55
+146,Cookbook 146,Books,3504.76,4732.89
+147,Cricket Bat 147,Sports,2975.85,4584.32
+148,Gym Gloves 148,Sports,2843.99,4029.02
+149,Smartphone 149,Electronics,3421.81,6127.78
+150,Puzzle Set 150,Toys,1488.54,2289.72

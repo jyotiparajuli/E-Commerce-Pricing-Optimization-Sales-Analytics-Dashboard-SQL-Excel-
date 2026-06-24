@@ -1,0 +1,658 @@
+comp_id,product_id,competitor_name,competitor_price
+1,1,Snapdeal,4898.2
+2,1,Amazon,5017.28
+3,1,Reliance Digital,4473.76
+4,1,Croma,4954.65
+5,1,Flipkart,4166.86
+6,1,Paytm Mall,5199.3
+7,2,Tata Cliq,2175.47
+8,2,Myntra,1404.32
+9,2,Snapdeal,1992.05
+10,2,Reliance Digital,1835.16
+11,2,Future Group,1629.5
+12,3,Snapdeal,6458.12
+13,3,Myntra,7065.04
+14,3,Tata Cliq,7516.06
+15,3,Reliance Digital,7158.46
+16,4,Paytm Mall,2915.17
+17,4,Flipkart,3595.53
+18,4,Reliance Digital,4200.04
+19,5,Tata Cliq,5610.25
+20,5,Flipkart,8477.34
+21,5,Future Group,7334.5
+22,5,Big Bazaar,6843.44
+23,5,Snapdeal,8040.29
+24,5,Reliance Digital,5757.38
+25,6,Big Bazaar,5259.69
+26,6,Future Group,7717.27
+27,6,Snapdeal,8312.69
+28,6,Myntra,6158.46
+29,7,Paytm Mall,1296.1
+30,7,Croma,1864.99
+31,7,Big Bazaar,1878.41
+32,8,Big Bazaar,2760.53
+33,8,Paytm Mall,2991.33
+34,8,Croma,3327.82
+35,8,Reliance Digital,2430.74
+36,8,Snapdeal,3063.75
+37,8,Future Group,2547.82
+38,9,Reliance Digital,5618.49
+39,9,Myntra,7371.7
+40,9,Croma,5985.32
+41,10,Flipkart,5814.15
+42,10,Tata Cliq,6806.38
+43,10,Croma,6311.1
+44,11,Flipkart,4964.57
+45,11,Croma,8491.77
+46,11,Tata Cliq,8524.86
+47,11,Future Group,6376.12
+48,12,Myntra,4049.07
+49,12,Future Group,4319.14
+50,12,Paytm Mall,4727.42
+51,13,Paytm Mall,1264.48
+52,13,Snapdeal,2032.86
+53,13,Reliance Digital,1581.4
+54,13,Myntra,1976.92
+55,13,Amazon,1707.13
+56,14,Big Bazaar,3165.19
+57,14,Reliance Digital,3404.51
+58,14,Flipkart,4196.77
+59,14,Myntra,3821.82
+60,14,Amazon,3897.09
+61,14,Future Group,3429.81
+62,15,Snapdeal,5793.75
+63,15,Reliance Digital,6138.36
+64,15,Paytm Mall,4719.12
+65,15,Tata Cliq,4926.47
+66,15,Croma,3786.65
+67,15,Future Group,6089.71
+68,16,Paytm Mall,5534.79
+69,16,Big Bazaar,5837.87
+70,16,Flipkart,8811.67
+71,16,Tata Cliq,8300.71
+72,16,Reliance Digital,5653.93
+73,17,Flipkart,1251.7
+74,17,Snapdeal,888.18
+75,17,Myntra,1410.49
+76,17,Tata Cliq,872.3
+77,18,Croma,1699.59
+78,18,Myntra,1491.22
+79,18,Big Bazaar,1689.57
+80,18,Future Group,1845.31
+81,18,Paytm Mall,1038.93
+82,19,Flipkart,1139.0
+83,19,Paytm Mall,1529.03
+84,19,Croma,1101.0
+85,19,Myntra,1123.73
+86,19,Reliance Digital,883.39
+87,19,Snapdeal,1506.88
+88,20,Myntra,5048.18
+89,20,Reliance Digital,4354.8
+90,20,Croma,4259.01
+91,21,Big Bazaar,5614.78
+92,21,Myntra,3779.22
+93,21,Reliance Digital,3737.25
+94,21,Amazon,4069.16
+95,21,Snapdeal,3549.63
+96,22,Reliance Digital,3231.34
+97,22,Flipkart,3025.9
+98,22,Future Group,3482.27
+99,22,Paytm Mall,2731.27
+100,22,Myntra,3442.33
+101,22,Amazon,3211.56
+102,23,Big Bazaar,5756.88
+103,23,Tata Cliq,6489.3
+104,23,Myntra,6408.03
+105,23,Flipkart,3673.03
+106,23,Paytm Mall,4389.4
+107,24,Flipkart,2703.01
+108,24,Reliance Digital,2360.45
+109,24,Future Group,4022.86
+110,25,Tata Cliq,1561.63
+111,25,Paytm Mall,2041.25
+112,25,Flipkart,2469.81
+113,26,Tata Cliq,3380.14
+114,26,Paytm Mall,3154.85
+115,26,Croma,3889.34
+116,27,Myntra,4538.42
+117,27,Big Bazaar,4420.88
+118,27,Snapdeal,4361.95
+119,28,Future Group,3413.12
+120,28,Paytm Mall,2998.18
+121,28,Reliance Digital,3340.76
+122,28,Tata Cliq,4769.39
+123,28,Croma,3193.33
+124,29,Croma,1819.39
+125,29,Reliance Digital,1546.17
+126,29,Myntra,1966.3
+127,29,Snapdeal,2353.46
+128,29,Paytm Mall,1943.21
+129,30,Big Bazaar,3769.18
+130,30,Tata Cliq,3382.87
+131,30,Future Group,5007.88
+132,30,Myntra,4454.5
+133,31,Big Bazaar,1056.58
+134,31,Croma,1283.55
+135,31,Future Group,1309.22
+136,31,Myntra,723.11
+137,31,Flipkart,956.65
+138,32,Snapdeal,2561.78
+139,32,Croma,2504.99
+140,32,Flipkart,1798.55
+141,32,Future Group,1546.06
+142,32,Reliance Digital,2140.09
+143,32,Big Bazaar,2459.45
+144,33,Flipkart,2438.65
+145,33,Big Bazaar,2083.19
+146,33,Reliance Digital,3457.28
+147,33,Amazon,3128.03
+148,34,Snapdeal,4000.93
+149,34,Tata Cliq,3694.84
+150,34,Paytm Mall,4626.5
+151,34,Flipkart,3593.15
+152,34,Future Group,4811.8
+153,35,Future Group,2118.19
+154,35,Big Bazaar,2019.05
+155,35,Myntra,1969.92
+156,35,Tata Cliq,2079.31
+157,35,Amazon,2261.48
+158,36,Amazon,2305.71
+159,36,Big Bazaar,2978.01
+160,36,Myntra,2565.2
+161,36,Tata Cliq,2868.63
+162,36,Reliance Digital,2557.69
+163,36,Future Group,3083.23
+164,37,Amazon,2073.35
+165,37,Flipkart,3652.85
+166,37,Tata Cliq,2206.43
+167,37,Paytm Mall,2238.7
+168,37,Future Group,2921.55
+169,38,Reliance Digital,651.24
+170,38,Paytm Mall,541.19
+171,38,Future Group,428.38
+172,38,Croma,537.95
+173,38,Amazon,430.54
+174,39,Myntra,9843.33
+175,39,Flipkart,10307.49
+176,39,Big Bazaar,10526.26
+177,39,Reliance Digital,6655.73
+178,39,Paytm Mall,10445.23
+179,40,Paytm Mall,542.57
+180,40,Croma,638.51
+181,40,Future Group,720.46
+182,40,Reliance Digital,577.8
+183,40,Flipkart,539.19
+184,41,Paytm Mall,1929.35
+185,41,Myntra,1959.26
+186,41,Future Group,1582.26
+187,41,Flipkart,1458.7
+188,41,Croma,1395.12
+189,41,Snapdeal,1210.06
+190,42,Tata Cliq,421.6
+191,42,Big Bazaar,623.61
+192,42,Paytm Mall,495.16
+193,43,Reliance Digital,508.72
+194,43,Amazon,389.57
+195,43,Myntra,368.46
+196,43,Tata Cliq,510.99
+197,43,Big Bazaar,475.31
+198,43,Future Group,420.13
+199,44,Paytm Mall,4050.63
+200,44,Big Bazaar,3742.61
+201,44,Flipkart,4401.23
+202,45,Flipkart,3581.59
+203,45,Snapdeal,5298.01
+204,45,Paytm Mall,4150.21
+205,45,Big Bazaar,4972.84
+206,45,Future Group,4177.99
+207,46,Big Bazaar,4875.42
+208,46,Reliance Digital,5386.56
+209,46,Future Group,4648.6
+210,46,Tata Cliq,3854.13
+211,46,Flipkart,3723.68
+212,47,Future Group,2170.73
+213,47,Reliance Digital,1652.7
+214,47,Croma,2197.19
+215,47,Flipkart,2308.21
+216,47,Amazon,1926.39
+217,48,Amazon,1222.72
+218,48,Snapdeal,845.71
+219,48,Future Group,814.22
+220,48,Tata Cliq,1318.8
+221,49,Tata Cliq,1901.17
+222,49,Myntra,1718.77
+223,49,Flipkart,1166.38
+224,49,Paytm Mall,1755.85
+225,50,Flipkart,5991.47
+226,50,Snapdeal,4455.48
+227,50,Amazon,5001.43
+228,50,Reliance Digital,4479.35
+229,50,Paytm Mall,3899.71
+230,50,Croma,5630.45
+231,51,Croma,3979.17
+232,51,Tata Cliq,5417.51
+233,51,Amazon,5251.16
+234,51,Big Bazaar,4080.51
+235,51,Future Group,6870.22
+236,51,Myntra,6703.53
+237,52,Croma,7621.02
+238,52,Tata Cliq,7521.96
+239,52,Future Group,4598.93
+240,52,Flipkart,5290.45
+241,53,Amazon,781.26
+242,53,Paytm Mall,887.33
+243,53,Croma,1169.72
+244,53,Flipkart,979.01
+245,54,Myntra,3166.87
+246,54,Reliance Digital,3226.18
+247,54,Flipkart,2797.01
+248,54,Paytm Mall,2643.13
+249,55,Snapdeal,2031.97
+250,55,Flipkart,1427.96
+251,55,Paytm Mall,1319.69
+252,55,Tata Cliq,1255.45
+253,56,Croma,2980.19
+254,56,Tata Cliq,3738.57
+255,56,Myntra,4439.47
+256,56,Reliance Digital,2677.48
+257,57,Croma,1666.04
+258,57,Snapdeal,2171.38
+259,57,Future Group,1530.0
+260,57,Flipkart,1980.51
+261,58,Flipkart,1121.85
+262,58,Reliance Digital,1949.81
+263,58,Future Group,1298.42
+264,58,Paytm Mall,1389.33
+265,59,Tata Cliq,4312.22
+266,59,Paytm Mall,7163.13
+267,59,Big Bazaar,7138.95
+268,59,Reliance Digital,5809.57
+269,60,Future Group,3615.63
+270,60,Flipkart,2800.4
+271,60,Big Bazaar,2727.23
+272,61,Big Bazaar,378.82
+273,61,Future Group,440.43
+274,61,Myntra,509.17
+275,61,Reliance Digital,326.21
+276,61,Paytm Mall,404.15
+277,62,Future Group,5698.27
+278,62,Paytm Mall,5976.01
+279,62,Reliance Digital,5006.7
+280,63,Big Bazaar,4908.74
+281,63,Reliance Digital,5573.01
+282,63,Flipkart,4419.95
+283,63,Paytm Mall,4535.18
+284,64,Big Bazaar,4038.92
+285,64,Flipkart,3709.62
+286,64,Tata Cliq,3597.49
+287,65,Flipkart,1695.14
+288,65,Paytm Mall,1470.83
+289,65,Tata Cliq,2284.0
+290,65,Big Bazaar,1697.42
+291,66,Amazon,6403.18
+292,66,Croma,6578.86
+293,66,Reliance Digital,4958.57
+294,66,Snapdeal,6799.28
+295,66,Future Group,5518.8
+296,67,Amazon,6290.67
+297,67,Myntra,9185.76
+298,67,Paytm Mall,5732.67
+299,68,Reliance Digital,960.9
+300,68,Amazon,609.81
+301,68,Flipkart,772.83
+302,68,Snapdeal,929.15
+303,68,Croma,572.94
+304,68,Myntra,931.65
+305,69,Croma,673.86
+306,69,Paytm Mall,832.68
+307,69,Big Bazaar,804.64
+308,69,Myntra,906.02
+309,69,Snapdeal,830.68
+310,70,Amazon,2607.62
+311,70,Tata Cliq,2198.61
+312,70,Snapdeal,1521.81
+313,70,Big Bazaar,1828.57
+314,70,Myntra,2384.44
+315,70,Paytm Mall,2411.2
+316,71,Myntra,2793.56
+317,71,Amazon,2452.95
+318,71,Flipkart,2199.68
+319,72,Reliance Digital,6080.91
+320,72,Big Bazaar,3968.45
+321,72,Croma,5967.16
+322,72,Amazon,4443.84
+323,72,Paytm Mall,5592.6
+324,73,Amazon,6400.73
+325,73,Reliance Digital,5587.3
+326,73,Future Group,4965.68
+327,73,Croma,6300.29
+328,73,Flipkart,4477.87
+329,73,Myntra,4553.84
+330,74,Snapdeal,2357.74
+331,74,Amazon,2370.31
+332,74,Tata Cliq,2725.2
+333,74,Future Group,2373.13
+334,74,Big Bazaar,3103.14
+335,75,Flipkart,3197.19
+336,75,Future Group,3210.2
+337,75,Myntra,2195.97
+338,75,Snapdeal,3896.04
+339,75,Amazon,3477.01
+340,75,Tata Cliq,3785.41
+341,76,Amazon,967.23
+342,76,Croma,867.47
+343,76,Paytm Mall,818.26
+344,76,Snapdeal,829.43
+345,76,Tata Cliq,677.24
+346,77,Big Bazaar,2806.41
+347,77,Reliance Digital,3994.94
+348,77,Croma,4803.45
+349,77,Flipkart,4217.34
+350,77,Snapdeal,4874.21
+351,78,Reliance Digital,425.4
+352,78,Snapdeal,384.02
+353,78,Big Bazaar,383.47
+354,78,Flipkart,444.97
+355,78,Croma,354.1
+356,79,Paytm Mall,202.2
+357,79,Reliance Digital,198.07
+358,79,Snapdeal,166.0
+359,79,Myntra,221.75
+360,80,Big Bazaar,5147.81
+361,80,Snapdeal,4237.3
+362,80,Amazon,3572.48
+363,81,Snapdeal,268.71
+364,81,Croma,256.71
+365,81,Reliance Digital,313.37
+366,81,Myntra,355.12
+367,81,Future Group,257.66
+368,82,Reliance Digital,2666.58
+369,82,Amazon,2629.1
+370,82,Tata Cliq,2324.1
+371,82,Flipkart,2943.41
+372,82,Croma,2525.35
+373,83,Myntra,3113.48
+374,83,Future Group,2613.1
+375,83,Snapdeal,3034.41
+376,83,Reliance Digital,3199.95
+377,84,Reliance Digital,2710.83
+378,84,Paytm Mall,3049.83
+379,84,Snapdeal,2428.26
+380,84,Future Group,2166.78
+381,85,Reliance Digital,2890.47
+382,85,Croma,3722.82
+383,85,Flipkart,2883.12
+384,85,Big Bazaar,4259.52
+385,85,Amazon,2945.32
+386,86,Croma,3675.94
+387,86,Snapdeal,2032.57
+388,86,Paytm Mall,3465.46
+389,86,Big Bazaar,2270.41
+390,86,Amazon,3151.0
+391,87,Amazon,552.11
+392,87,Croma,499.31
+393,87,Big Bazaar,474.01
+394,87,Myntra,449.74
+395,88,Tata Cliq,6564.27
+396,88,Future Group,3862.09
+397,88,Big Bazaar,3629.89
+398,88,Paytm Mall,5869.77
+399,89,Reliance Digital,862.73
+400,89,Big Bazaar,768.74
+401,89,Croma,963.31
+402,90,Amazon,2329.46
+403,90,Croma,2478.37
+404,90,Future Group,1980.78
+405,90,Tata Cliq,2870.41
+406,91,Snapdeal,4554.55
+407,91,Flipkart,4882.36
+408,91,Future Group,5826.51
+409,91,Croma,5600.51
+410,91,Reliance Digital,3235.75
+411,91,Myntra,4593.78
+412,92,Croma,5699.88
+413,92,Reliance Digital,4816.35
+414,92,Snapdeal,5078.2
+415,92,Myntra,5956.89
+416,93,Tata Cliq,1108.15
+417,93,Reliance Digital,986.63
+418,93,Croma,878.23
+419,94,Amazon,6269.72
+420,94,Croma,5847.02
+421,94,Snapdeal,7000.95
+422,94,Myntra,6226.59
+423,94,Future Group,6160.07
+424,94,Paytm Mall,7409.18
+425,95,Big Bazaar,2508.11
+426,95,Reliance Digital,3888.58
+427,95,Croma,2782.14
+428,95,Paytm Mall,2438.5
+429,95,Future Group,2371.29
+430,96,Reliance Digital,3609.72
+431,96,Flipkart,3061.92
+432,96,Amazon,4488.64
+433,96,Myntra,3594.53
+434,96,Future Group,3139.78
+435,97,Snapdeal,2364.78
+436,97,Paytm Mall,2580.11
+437,97,Tata Cliq,2384.67
+438,97,Reliance Digital,2529.92
+439,98,Reliance Digital,8212.06
+440,98,Amazon,6056.08
+441,98,Croma,5332.93
+442,99,Reliance Digital,903.08
+443,99,Myntra,917.31
+444,99,Paytm Mall,844.91
+445,99,Croma,1142.47
+446,99,Flipkart,1085.38
+447,99,Future Group,859.45
+448,100,Reliance Digital,3454.96
+449,100,Snapdeal,3712.16
+450,100,Amazon,4275.63
+451,100,Future Group,3195.6
+452,101,Tata Cliq,5371.25
+453,101,Flipkart,8095.48
+454,101,Reliance Digital,5687.19
+455,101,Future Group,5120.0
+456,101,Big Bazaar,6066.17
+457,102,Future Group,3244.06
+458,102,Tata Cliq,3114.33
+459,102,Myntra,1864.13
+460,103,Reliance Digital,4571.92
+461,103,Croma,6692.9
+462,103,Amazon,7592.39
+463,103,Tata Cliq,6974.12
+464,104,Snapdeal,5747.88
+465,104,Reliance Digital,4120.01
+466,104,Paytm Mall,5496.15
+467,105,Tata Cliq,4147.82
+468,105,Croma,4093.05
+469,105,Future Group,5458.59
+470,105,Paytm Mall,4730.89
+471,105,Flipkart,4494.78
+472,105,Myntra,5748.18
+473,106,Flipkart,562.14
+474,106,Snapdeal,634.82
+475,106,Croma,768.89
+476,106,Paytm Mall,898.44
+477,106,Big Bazaar,612.63
+478,107,Tata Cliq,821.97
+479,107,Paytm Mall,1069.38
+480,107,Reliance Digital,1182.26
+481,107,Future Group,900.07
+482,107,Snapdeal,872.7
+483,107,Flipkart,1033.38
+484,108,Reliance Digital,4029.22
+485,108,Paytm Mall,6332.94
+486,108,Flipkart,4463.95
+487,108,Future Group,5966.52
+488,108,Snapdeal,5025.93
+489,109,Croma,5713.88
+490,109,Snapdeal,6989.69
+491,109,Paytm Mall,9030.45
+492,109,Future Group,5449.6
+493,109,Amazon,5592.26
+494,110,Amazon,569.87
+495,110,Flipkart,844.16
+496,110,Reliance Digital,727.4
+497,110,Snapdeal,917.23
+498,111,Snapdeal,4880.33
+499,111,Croma,3879.46
+500,111,Amazon,3453.26
+501,111,Paytm Mall,3083.13
+502,112,Snapdeal,9386.09
+503,112,Tata Cliq,6501.87
+504,112,Future Group,7283.22
+505,112,Big Bazaar,6466.83
+506,113,Flipkart,4305.37
+507,113,Amazon,3584.06
+508,113,Future Group,5634.82
+509,113,Reliance Digital,3683.95
+510,114,Myntra,5810.19
+511,114,Croma,6350.3
+512,114,Big Bazaar,8135.51
+513,114,Snapdeal,5681.23
+514,115,Croma,4698.38
+515,115,Future Group,4483.49
+516,115,Tata Cliq,4572.29
+517,115,Paytm Mall,4071.97
+518,116,Myntra,5232.2
+519,116,Croma,4818.2
+520,116,Paytm Mall,4050.95
+521,116,Big Bazaar,4316.17
+522,116,Snapdeal,3929.98
+523,117,Paytm Mall,779.56
+524,117,Amazon,861.38
+525,117,Myntra,1037.99
+526,118,Big Bazaar,150.76
+527,118,Croma,205.32
+528,118,Tata Cliq,274.48
+529,118,Amazon,231.1
+530,118,Snapdeal,260.96
+531,119,Flipkart,3909.05
+532,119,Myntra,5164.61
+533,119,Paytm Mall,5459.24
+534,119,Snapdeal,5468.38
+535,119,Croma,4510.49
+536,120,Myntra,1938.54
+537,120,Paytm Mall,1326.2
+538,120,Big Bazaar,1947.62
+539,120,Tata Cliq,1543.07
+540,121,Amazon,2908.15
+541,121,Flipkart,3637.76
+542,121,Big Bazaar,3640.52
+543,121,Croma,2755.75
+544,121,Snapdeal,2756.11
+545,121,Reliance Digital,2103.83
+546,122,Myntra,6152.13
+547,122,Tata Cliq,3556.6
+548,122,Paytm Mall,4055.1
+549,122,Snapdeal,5132.76
+550,123,Croma,824.35
+551,123,Future Group,575.03
+552,123,Snapdeal,927.08
+553,123,Paytm Mall,909.67
+554,123,Tata Cliq,813.61
+555,124,Snapdeal,7639.62
+556,124,Tata Cliq,8654.53
+557,124,Croma,8024.36
+558,124,Amazon,5984.88
+559,125,Croma,6211.23
+560,125,Paytm Mall,4186.82
+561,125,Snapdeal,5362.27
+562,125,Amazon,4984.38
+563,125,Future Group,4729.32
+564,126,Reliance Digital,8746.78
+565,126,Snapdeal,6125.51
+566,126,Future Group,7702.59
+567,126,Myntra,7797.13
+568,127,Croma,6321.05
+569,127,Snapdeal,5462.87
+570,127,Paytm Mall,6169.08
+571,128,Amazon,1129.2
+572,128,Big Bazaar,1334.7
+573,128,Flipkart,1157.56
+574,128,Myntra,1436.97
+575,128,Reliance Digital,1471.69
+576,128,Paytm Mall,1569.21
+577,129,Croma,4790.73
+578,129,Big Bazaar,5706.0
+579,129,Amazon,4146.92
+580,130,Amazon,4335.1
+581,130,Flipkart,4353.33
+582,130,Croma,3464.81
+583,130,Paytm Mall,3307.31
+584,131,Myntra,1379.73
+585,131,Reliance Digital,2258.17
+586,131,Croma,1748.04
+587,132,Future Group,4294.19
+588,132,Reliance Digital,3158.39
+589,132,Big Bazaar,2671.38
+590,133,Paytm Mall,3749.82
+591,133,Snapdeal,4411.22
+592,133,Future Group,5837.54
+593,134,Myntra,4115.43
+594,134,Flipkart,4849.73
+595,134,Snapdeal,5033.22
+596,135,Paytm Mall,3102.68
+597,135,Croma,4034.15
+598,135,Reliance Digital,5381.52
+599,136,Future Group,6669.42
+600,136,Tata Cliq,4496.02
+601,136,Paytm Mall,6146.54
+602,136,Reliance Digital,6276.9
+603,136,Amazon,5437.1
+604,137,Croma,5049.4
+605,137,Future Group,3742.04
+606,137,Snapdeal,3536.46
+607,138,Flipkart,5482.91
+608,138,Amazon,4557.8
+609,138,Croma,4590.3
+610,138,Reliance Digital,4076.96
+611,138,Big Bazaar,4843.27
+612,138,Future Group,6331.72
+613,139,Paytm Mall,2812.99
+614,139,Croma,2235.48
+615,139,Flipkart,3469.05
+616,140,Reliance Digital,3469.23
+617,140,Flipkart,4336.24
+618,140,Big Bazaar,5370.31
+619,140,Amazon,4714.28
+620,141,Amazon,6579.16
+621,141,Tata Cliq,7188.11
+622,141,Flipkart,8993.17
+623,142,Future Group,2317.01
+624,142,Amazon,1715.32
+625,142,Croma,2598.26
+626,143,Future Group,3639.13
+627,143,Reliance Digital,2681.31
+628,143,Croma,2331.3
+629,144,Croma,8038.2
+630,144,Future Group,4796.89
+631,144,Reliance Digital,5908.8
+632,144,Flipkart,6110.17
+633,144,Paytm Mall,7216.06
+634,145,Paytm Mall,869.93
+635,145,Reliance Digital,569.05
+636,145,Amazon,660.23
+637,146,Reliance Digital,518.08
+638,146,Big Bazaar,787.15
+639,146,Snapdeal,528.16
+640,146,Croma,645.02
+641,147,Croma,1020.61
+642,147,Big Bazaar,934.06
+643,147,Future Group,701.38
+644,147,Flipkart,621.39
+645,147,Snapdeal,568.26
+646,148,Snapdeal,4119.08
+647,148,Amazon,4423.12
+648,148,Flipkart,4769.24
+649,148,Myntra,4557.16
+650,149,Tata Cliq,2923.16
+651,149,Amazon,2438.8
+652,149,Reliance Digital,2910.97
+653,149,Future Group,3694.1
+654,149,Snapdeal,3830.29
+655,150,Big Bazaar,1814.04
+656,150,Snapdeal,1802.88
+657,150,Amazon,1814.03
