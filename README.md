@@ -102,3 +102,9 @@ The solution helps businesses:
 
 This project showcases **SQL, Data Analysis, Business Intelligence, Dashboarding, and Data Visualization skills** commonly used in Data Analyst roles.
 
+Excel Dashboard Screenshot:-
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/73dc160d-f6c6-4790-8e61-ef8e54d33a60" />
+
+
+
